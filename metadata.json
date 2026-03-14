@@ -1,0 +1,5 @@
+{
+  "name": "Sentinel v3",
+  "description": "Advanced security audit and incident reporting dashboard with real-time state management and persistence.",
+  "requestFramePermissions": []
+}
